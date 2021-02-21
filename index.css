@@ -1,0 +1,338 @@
+.header{
+    height:60px;
+    width: 100%;
+    color:white;
+    background-color:black ;
+    font-weight: bolder;
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    
+}
+
+.footer{
+    height:60px;
+    width:100%;
+    color:white;
+    background-color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    margin-top: 500px;
+    
+}
+
+.box1{
+    height:20vh;
+    width: 20vw;
+    color:white;
+    background-color: black;
+    border-radius: 30px;
+    margin-top: 80px;
+    margin-left:30px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.box1:hover{
+    background-color:rgb(216, 94, 94)
+
+}
+
+.box2{
+    height:20vh;
+    width: 20vw;
+    color:white;
+    background-color: black;
+    border-radius: 30px;
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 330px;
+    margin-top:-115px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box2:hover{
+    background-color:rgb(216, 94, 94)
+}
+
+.box3{
+    height:20vh;
+    width: 20vw;
+    color:white;
+    background-color: black;
+    border-radius: 30px;
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 630px;
+    margin-top:-115px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.box3:hover{
+    background-color:rgb(216, 94, 94)
+}
+
+
+.box4{
+    height:20vh;
+    width: 20vw;
+    color:white;
+    background-color: black;
+    border-radius: 30px;
+    display: flex;
+    box-sizing: border-box;
+    margin-left: 930px;
+    margin-top:-115px;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.box4:hover{
+    background-color:rgb(216, 94, 94)
+}
+.ADD{
+      height: 40px;
+      width: 90px;
+      color: black;
+      background-color:white;
+      border: 2px solid black;
+      border-radius: 8px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      margin-left: 550px;
+      margin-top: 10px;
+    }
+
+.ADD:hover{
+    background-color: burlywood;
+}
+
+.name{
+      height:32px;
+      width: 54px;
+      color: white;
+      border: 2px solid black;
+      border-radius: 4px;
+      background-color:black;
+      margin-left: 30px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+     }
+
+.username{
+      height:35px;
+      width: 90px;
+      color: white;
+      border: 2px solid black;
+      border-radius: 4px;
+      background-color:black;
+      margin-left: 330px;
+      margin-top: -40px;
+      text-align: center;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+    }
+
+.email{
+    height:35px;
+    width: 80px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color:black;
+    margin-left: 650px;
+    margin-top: -40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.edit{
+    height:35px;
+    width: 80px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color:black;
+    margin-left: 950px;
+    margin-top: -40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+.delete{
+    height:35px;
+    width: 80px;
+    color: white;
+    border: 2px solid black;
+    border-radius: 4px;
+    background-color:black;
+    margin-left: 1100px;
+    margin-top: -40px;
+    text-align: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+
+.data{
+    margin-left: 22px;
+}
+
+
+.usname{
+    margin-left: 330px;
+    margin-top: -170px;
+}
+
+#email1{
+    margin-left: 650px;
+    margin-top:-170px;
+}
+
+#icon1{
+    height: 20px;
+    width:26px;
+    margin:-170px 985px; 
+    
+}
+
+#icon1:hover{
+    background-color: green;
+}
+
+#icon2{
+    height: 20px;
+    width:26px;
+    margin: 182px 985px; 
+}
+
+#icon2:hover{
+    background-color: green;
+}
+
+#icon3{
+    height: 20px;
+    width:26px;
+     margin: -166px 985px;
+}
+
+#icon3:hover{
+    background-color: green;
+}
+
+#icon4{
+    height: 20px;
+    width:26px;
+    margin: 184px 985px;
+}
+
+#icon4:hover{
+    background-color: green;
+}
+
+#icon5{
+    height: 20px;
+    width:26px;
+    margin: -170px 985px;
+}
+
+#icon5:hover{
+    background-color: green;
+}
+
+#dlt1{
+    height:24px;
+    width:24px;
+    margin: 12px 1144px;
+}
+
+#dlt1:hover{
+    background-color: red;
+}
+
+
+#dlt2{
+    height:24px;
+    width:24px;
+    margin: -9px 1144px;
+}
+
+#dlt2:hover{
+    background-color: red;
+}
+
+
+#dlt3{
+    height:24px;
+    width:24px;
+    margin: 18px 1144px;
+}
+
+#dlt3:hover{
+    background-color: red;
+}
+
+
+#dlt4{
+    height:24px;
+    width:24px;
+    margin: 18px 1144px;
+}
+
+#dlt4:hover{
+    background-color: red;
+}
+
+
+#dlt5{
+    height:24px;
+    width:24px;
+    margin: -10px 1144px;
+}
+
+#dlt5:hover{
+    background-color: red;
+}
+
+
+
+
+
+
+
+
+
+
+
